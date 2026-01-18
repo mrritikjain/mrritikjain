@@ -25,8 +25,7 @@ A job application tracking tool built with **vanilla JavaScript**.
 - Focus on logic, state handling & DOM manipulation
 
 🔗 Live: https://jobtrackerjs.netlify.app/  
-🔗 Repo: https://github.com/mrritikjain
-
+🔗 Repo: https://github.com/mrritikjain/job-tracker-app
 ---
 
 ### 🔹 Focus Analytics (React)
@@ -36,8 +35,7 @@ A productivity & focus-tracking app built using **React**.
 - Uses component-based architecture & state management
 
 🔗 Live: https://focusanalytics.netlify.app/  
-🔗 Repo: https://github.com/mrritikjain
-
+🔗 Repo: https://github.com/mrritikjain/focus_analytics
 ---
 
 ## 🌱 Currently Learning
