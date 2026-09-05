@@ -65,22 +65,6 @@ Modular analytics dashboard with session tracking, reusable components, and cust
 Full CRUD job-tracking app with filtering and dynamic DOM updates, showcasing strong core JavaScript fundamentals.
 `Vanilla JavaScript` `DOM API`
 
-> 💡 *Update the `#` links above with your real GitHub repo URLs, and see "Adding your project screenshots" below to make the images work.*
-
-### 📸 Adding your project screenshots
-
-The image tags above point to `./assets/your-file.png` — you need to add those files yourself. Easiest way:
-
-1. In your profile repo (the one named exactly like your GitHub username), create a folder called `assets`.
-2. Take a screenshot of each live project (or its GitHub repo page) and save it as:
-   - `assets/virtualtrade.png`
-   - `assets/focus-analytics.png`
-   - `assets/job-tracker.png`
-3. Commit and push — GitHub will render them automatically since the paths already match.
-
-**Alternative (no repo folder needed):** drag-and-drop each image directly into the GitHub README editor (or into a new Issue/PR comment box) — GitHub auto-uploads it and gives you a `https://github.com/user-attachments/...` URL. Paste that URL in place of `./assets/....png`.
-
----
 
 ### 💼 Experience Snapshot
 
@@ -100,7 +84,6 @@ The image tags above point to `./assets/your-file.png` — you need to add those
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrritikjain&show_icons=true&theme=default" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" width="48%" />
 </p>
 
