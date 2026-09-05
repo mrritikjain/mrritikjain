@@ -48,19 +48,17 @@
 ### 🔥 Featured Projects
 
 #### 🟢 [VirtualTrade — AI-Powered Trading Simulator](#)
-<img src="./assets/virtualtrade.png" alt="VirtualTrade screenshot" width="600" />
+
 
 Full-stack MERN app giving users virtual credits to practice investing in live stock markets, with an integrated AI assistant for real-time trading recommendations. Designed REST APIs and MongoDB schemas for portfolios/transactions, with a React.js dashboard for live price tracking.
 `React` `Node.js` `Express` `MongoDB` `AI Integration`
 
 #### 🔵 [Focus Analytics Dashboard](#)
-<img src="./assets/focus-analytics.png" alt="Focus Analytics Dashboard screenshot" width="600" />
 
 Modular analytics dashboard with session tracking, reusable components, and custom hooks for data-fetching logic. Deployed on Netlify with a clean, scalable codebase architecture.
 `React.js` `Custom Hooks` `Netlify`
 
 #### 🟠 [Job Tracker Application](#)
-<img src="./assets/job-tracker.png" alt="Job Tracker Application screenshot" width="600" />
 
 Full CRUD job-tracking app with filtering and dynamic DOM updates, showcasing strong core JavaScript fundamentals.
 `Vanilla JavaScript` `DOM API`
