@@ -1,52 +1,111 @@
-# Hi, I’m Ritik Jain 👋
+<h1 align="center">Hi there, I'm Ritik Jain 👋</h1>
+<h3 align="center">Full Stack Developer (MERN) | React.js Focused | JavaScript | WordPress</h3>
 
-🚀 **Frontend Developer** with strong fundamentals in **JavaScript** and **React**,  
-and **2+ years of professional WordPress development experience**.
-
-I enjoy building clean, user-focused interfaces and logic-driven applications.  
-Currently transitioning into a full-time **Frontend / React Developer role**.
-
----
-
-## 🛠 Tech Stack
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frontend:** React, Hooks, Component-based UI
-- **Styling:** CSS, Responsive Design
-- **Tools:** Git, GitHub, VS Code
-- **CMS:** WordPress (2+ years real-world experience)
+<p align="center">
+  <a href="https://portfolioritikjain.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ritikjain2112" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jainritik0021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 About Me
 
-### 🔹 Job Tracker App (JavaScript)
-A job application tracking tool built with **vanilla JavaScript**.
-- Add, manage & track job applications
-- Focus on logic, state handling & DOM manipulation
-
-🔗 Live: https://jobtrackerjs.netlify.app/  
-🔗 Repo: https://github.com/mrritikjain/job-tracker-app
----
-
-### 🔹 Focus Analytics (React)
-A productivity & focus-tracking app built using **React**.
-- Tracks focus sessions
-- Displays analytics to improve productivity
-- Uses component-based architecture & state management
-
-🔗 Live: https://focusanalytics.netlify.app/  
-🔗 Repo: https://github.com/mrritikjain/focus_analytics
----
-
-## 🌱 Currently Learning
-- Advanced React patterns
-- API integration & data handling
-- Writing clean, scalable frontend code
+- 🎯 Frontend Developer with **2.8+ years** of professional experience building and optimizing WordPress-based websites for a fintech platform serving **50,000+ monthly users**
+- 💻 Building project-level, self-driven expertise in **React.js** (Hooks, Context API, Custom Hooks, reusable components) and the **MERN stack**
+- 🏆 GeeksforGeeks certified in **MERN Stack Development** (Jan 2026)
+- 📈 Proven track record improving Core Web Vitals — **35% LCP** and **40% CLS** improvements
+- 🌱 Currently deepening my backend skills with Node.js, Express.js & MongoDB
+- 👨‍💻 Actively freelancing as a Web Developer, building and maintaining client WordPress sites
+- 📫 Reach me at **jainritik0021@gmail.com**
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/ritikjain2112/
-- **GitHub:** https://github.com/mrritikjain
+### 🛠️ Tech Stack
 
-💼 Open to **Frontend Developer / React Developer** opportunities
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+**CMS & Server**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress,php,apache" />
+</p>
+
+**Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vite,netlify,postman" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+#### 🟢 [VirtualTrade — AI-Powered Trading Simulator](#)
+<img src="./assets/virtualtrade.png" alt="VirtualTrade screenshot" width="600" />
+
+Full-stack MERN app giving users virtual credits to practice investing in live stock markets, with an integrated AI assistant for real-time trading recommendations. Designed REST APIs and MongoDB schemas for portfolios/transactions, with a React.js dashboard for live price tracking.
+`React` `Node.js` `Express` `MongoDB` `AI Integration`
+
+#### 🔵 [Focus Analytics Dashboard](#)
+<img src="./assets/focus-analytics.png" alt="Focus Analytics Dashboard screenshot" width="600" />
+
+Modular analytics dashboard with session tracking, reusable components, and custom hooks for data-fetching logic. Deployed on Netlify with a clean, scalable codebase architecture.
+`React.js` `Custom Hooks` `Netlify`
+
+#### 🟠 [Job Tracker Application](#)
+<img src="./assets/job-tracker.png" alt="Job Tracker Application screenshot" width="600" />
+
+Full CRUD job-tracking app with filtering and dynamic DOM updates, showcasing strong core JavaScript fundamentals.
+`Vanilla JavaScript` `DOM API`
+
+> 💡 *Update the `#` links above with your real GitHub repo URLs, and see "Adding your project screenshots" below to make the images work.*
+
+### 📸 Adding your project screenshots
+
+The image tags above point to `./assets/your-file.png` — you need to add those files yourself. Easiest way:
+
+1. In your profile repo (the one named exactly like your GitHub username), create a folder called `assets`.
+2. Take a screenshot of each live project (or its GitHub repo page) and save it as:
+   - `assets/virtualtrade.png`
+   - `assets/focus-analytics.png`
+   - `assets/job-tracker.png`
+3. Commit and push — GitHub will render them automatically since the paths already match.
+
+**Alternative (no repo folder needed):** drag-and-drop each image directly into the GitHub README editor (or into a new Issue/PR comment box) — GitHub auto-uploads it and gives you a `https://github.com/user-attachments/...` URL. Paste that URL in place of `./assets/....png`.
+
+---
+
+### 💼 Experience Snapshot
+
+- **Freelance Web Developer** — Self-Employed, Remote *(Jun 2026 – Present)*
+- **WordPress Developer** — Edge Forex Pvt. Ltd., Jaipur *(Sept 2023 – Apr 2026)*
+- **Web Developer Intern** — Vizy Prints Pvt. Ltd., Jaipur *(Jan 2021 – Dec 2022)*
+
+---
+
+### 🎓 Education
+
+- **MCA**, Rajasthan Technical University *(2022 – 2024)*
+- **BCA**, Mohanlal Sukhadia University *(2018 – 2021)*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrritikjain&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" width="48%" />
+</p>
+
+
+
+---
+
+<p align="center"><i>Looking to apply a solid JavaScript foundation and growing full-stack skill set in a React-focused development role. Open to opportunities! 🚀</i></p>
